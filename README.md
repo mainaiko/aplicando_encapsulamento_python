@@ -1,1 +1,2 @@
-# aplicando_encapsulamento_python
+# Aprendendo mais sobre classes 
+    aula intermediaria sobre classes, encapsulamento
